@@ -1,3 +1,3 @@
 # html/css practice
 
-some description!
+some description.
